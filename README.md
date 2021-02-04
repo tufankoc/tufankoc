@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Tufan Koc
-![](https://github.com/tufankoc00/tufankoc00/blob/main/animation.mp4)
+![](https://media.giphy.com/media/3osxY9kuM2NGUfvThe/giphy.gif)
 
 I'm Tufan from Turkey. I'm studying business at University. I'm developing a back end and a front end. I like Python, React and Linux.
 
