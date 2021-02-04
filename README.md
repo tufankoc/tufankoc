@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Tufan Koc
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![](https://github.com/tufankoc00/tufankoc00/blob/main/animation.mp4)
 
 I'm Tufan from Turkey. I'm studying business at University. I'm developing a back end and a front end. I like Python, React and Linux.
 
