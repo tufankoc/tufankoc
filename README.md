@@ -3,7 +3,7 @@
 
 I'm Tufan from Turkey. I'm studying business at University. I'm developing a back end and a front end. I like Python, React and Linux.
 
-Skills: PYTHON / REACT / JS / HTML / CSS
+Skills: PYTHON / HTML / CSS
 
 - 🌱 I’m currently learning Python and React 
 
