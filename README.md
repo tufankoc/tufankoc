@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Tufan Koc
 ![](https://media.giphy.com/media/3osxY9kuM2NGUfvThe/giphy.gif)
 
-I'm Tufan from Turkey. I'm studying business at University. I'm developing a back end and a front end. I like Python, React and Linux.
+I'm Tufan from Turkey. I'm studying business at University. I'm developing a back end and a front end. I like Python, Java and Linux.
 
 Skills: PYTHON / HTML / CSS
 
